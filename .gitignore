@@ -1,0 +1,6 @@
+.venv/
+.python-path
+.env
+data/
+__pycache__/
+*.log

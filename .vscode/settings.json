@@ -1,0 +1,19 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\stat\\AppData\\Local\\MCup\\20dbf710ec1f\\Scripts\\python.exe",
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.host": "127.0.0.1",
+  "liveServer.settings.root": "/",
+  "liveServer.settings.ignoreFiles": [
+    "**/.venv/**",
+    "**/data/**",
+    "**/demo-data/**",
+    "**/__pycache__/**"
+  ],
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "search.exclude": {
+    "**/.venv": true,
+    "**/data": true
+  }
+}
